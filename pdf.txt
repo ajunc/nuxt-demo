@@ -183,7 +183,7 @@ nuxtServerInit
 npm i -S cookie-universal-nuxt
 注册，nuxt.config.js
 modules:["cookie-universal-nuxt"]
-2、nuxtServerInit只能卸载store/index.js
+2、nuxtServerInit只能写在store/index.js
 3、nuxtServerInit仅在服务端执行
 
 发布部署
