@@ -11,6 +11,9 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
+#启动node服务器，提供api接口
+node ./server/api.js
+
 # build for production and launch server
 $ npm run build
 $ npm start
